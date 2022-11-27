@@ -1,0 +1,37 @@
+h1 {
+  font-size: 7vw;
+  padding: 1vw;
+  border-bottom: 3px solid green;
+  border-left: 3px solid green;
+  border-right: 3px solid green;
+  border-radius: 3px;
+  box-shadow: -1px 2px 5px 10px green;
+  background: linear-gradient(to top, rgba(244, 255, 240, 0.171), rgba(228, 255, 230, 0.5));
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+/* .info {
+  position: absolute;
+  top: 48%;
+  left: 50%;
+}
+.info :nth-child(1) {
+  position: relative;
+  right: 18vw;
+  color: #45ac00;
+  font-size: 1.5vw;
+}
+.info :nth-child(2) {
+  position: relative;
+  right: 10vw;
+  color: #45ac00;
+  font-size: 1.5vw;
+}
+.info :nth-child(3) {
+  position: relative;
+  left: 2.5vw;
+  color: #45ac00;
+  font-size: 1.5vw;
+} */
